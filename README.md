@@ -47,7 +47,7 @@ Created by **[Albina Maharjan]**
 
 ## 📬 Feedback & Collaboration
 
-I'm always open to feedback and collaboration! If you have ideas to improve this dashboard or want to connect, feel free to reach out via [LinkedIn](https://linkedin.com/in/your-profile) or open an issue.
+I'm always open to feedback and collaboration! If you have ideas to improve this dashboard or want to connect, feel free to reach out via (https://www.linkedin.com/in/albina-maharjan-9499a6291/) or open an issue.
 
 ---
 
