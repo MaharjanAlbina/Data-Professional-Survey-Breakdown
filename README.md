@@ -31,9 +31,10 @@ This project analyzes data from a global survey of **630+ data professionals** u
 
 ## 📂 Files Included
 
-- `Data_Professional_Survey_Breakdown.pbix` – Main Power BI report file
-- `survey_data_cleaned.xlsx` – Cleaned dataset used in Power BI
-- `screenshot.png` – Preview of the dashboard
+- `Data Professional Survey Breakdown.pbix` – Power BI report  
+- `Power BI – Final Project.xlsx` – Cleaned dataset  
+- `Dashboard Screenshot.pdf` – Preview image  
+- `Video.mp4` – Short walkthrough  
 - `README.md` – This file
 
 ---
